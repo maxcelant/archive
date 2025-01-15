@@ -1,0 +1,2 @@
+- Use `istioctl analyze` to find any glaring issues in your current namespace.
+- 

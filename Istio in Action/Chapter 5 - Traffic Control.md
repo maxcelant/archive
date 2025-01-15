@@ -1,0 +1,8 @@
+- **VirtualService** is about _how traffic flows_: "Send 80% of traffic to v1, 20% to v2," or "Retry failed requests three times."
+- **DestinationRule** is about _how the backend behaves_: "v1 gets a connection pool of 10," or "Use mTLS when connecting to v2."
+- You don't need to create separate services for "v1" and "v2". You just need to define the label in your deployment/pod.
+- If service A is communicating to another service B and B is being talked to from A. Then it makes sense to set the `gateway` property in the virtual service to `mesh`. Since it's traffic is all internal.
+- There's a tool called Flagger that allows for more fine-grained canary releases.
+- You define the subsets in the `DestinationRule` resource and use them in the `VirtualService`.
+- You can mirror traffic requests in your virtual service.
+- `ServiceEntry` adds an entry into Istio's service registry. This makes it explicit that clients within the mesh are allowed to call a particular service that exists outside of the mesh.
