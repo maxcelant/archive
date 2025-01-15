@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Systems/Chapter 2 - Representing and Manipulating Information.md",
-                "mode": "preview",
+                "file": "Kubernetes In Action/chapters/Chapter 14 - Managing pods computational resources.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 2 - Representing and Manipulating Information"
+              "title": "Chapter 14 - Managing pods computational resources"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Systems/Chapter 2 - Representing and Manipulating Information.md",
+                "file": "Kubernetes In Action/chapters/Chapter 14 - Managing pods computational resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chapter 2 - Representing and Manipulating Information"
+              "title": "Backlinks for Chapter 14 - Managing pods computational resources"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Systems/Chapter 2 - Representing and Manipulating Information.md",
+                "file": "Kubernetes In Action/chapters/Chapter 14 - Managing pods computational resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chapter 2 - Representing and Manipulating Information"
+              "title": "Outgoing links from Chapter 14 - Managing pods computational resources"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Systems/Chapter 2 - Representing and Manipulating Information.md"
+                "file": "Kubernetes In Action/chapters/Chapter 14 - Managing pods computational resources.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 2 - Representing and Manipulating Information"
+              "title": "Outline of Chapter 14 - Managing pods computational resources"
             }
           }
         ]
@@ -162,19 +162,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f842094fd7b378b",
+  "active": "bdd70754d778f4ee",
   "lastOpenFiles": [
-    "Computer Systems/ToC.md",
+    "Kubernetes In Action/chapters/Chapter 15 - Automatic scaling of pods and cluster nodes.md",
+    "Kubernetes In Action/chapters/Chapter 18 - Extending Kubernetes.md",
+    "Kubernetes In Action/chapters/Chapter 17 - Best practices for developing apps.md",
+    "Kubernetes In Action/chapters/Chapter 5 - Services：enabling clients to discover and talk to pods.md",
+    "Kubernetes In Action/chapters/Chapter 0 - StatefulSets：deploying replicated stateful applications.md",
+    "Kubernetes In Action/chapters/Chapter 14 - Managing pods computational resources.md",
+    "Kubernetes In Action/chapters/Chapter 1 - Understanding Kubernetes internals.md",
+    "Kubernetes In Action/chapters/Chapter 9 - Deployments：updating applications declaratively.md",
+    "Kubernetes In Action/chapters/Chapter 8 - Accessing pod metadata.md",
+    "Kubernetes In Action/chapters/Chapter 7 - ConfigMaps and Secrets：configuring applications.md",
+    "Kubernetes In Action/chapters/Chapter 6 - Volumes：attaching disk storage to containers.md",
+    "Crafting Interpreters/Chapter 9. Control Flow.md",
+    "Crafting Interpreters/Chapter 9 - Control Flow.md",
+    "Crafting Interpreters/Chapter 8 - Statements and State.md",
+    "Crafting Interpreters/Chapter 7 - Evaluating Expressions.md",
+    "Crafting Interpreters/Chapter 6 - Parsing Expressions.md",
+    "Crafting Interpreters/Chapter 5 - Representing Code.md",
+    "Crafting Interpreters/Chapter 4 - Scanner.md",
+    "Crafting Interpreters/Chapter 10 - Functions.md",
+    "Crafting Interpreters/Chapter 4. Scanner.md",
     "Computer Systems/Chapter 2 - Representing and Manipulating Information.md",
-    "Computer Systems/Information Storage.md",
-    "Computer Systems/Chapter 1 - Tour of Computer Systems.md",
-    "Computer Systems/Course Schedule.md",
-    "Computer Systems/Communication via Networks.md",
-    "Computer Systems/Important Themes.md",
-    "Computer Systems/Operating Systems.md",
-    "Computer Systems/Caches.md",
-    "Computer Systems/System Organization.md",
-    "Computer Systems/Program Translation.md",
-    "Computer Systems/Integer Representations.md"
+    "Crafting Interpreters/Chapter 8. Statements and State.md",
+    "Crafting Interpreters/Chapter 7. Evaluating Expressions.md",
+    "Crafting Interpreters/Chapter 6. Parsing Expressions.md",
+    "Crafting Interpreters/Chapter 5. Representing Code.md",
+    "Crafting Interpreters/Chapter 10. Functions.md",
+    "Crafting Interpreters/Chapter 9 - Control Flow-md",
+    "Crafting Interpreters/Chapter 8 - Statements and State-md",
+    "Crafting Interpreters/Chapter 7 - Evaluating Expressions-md",
+    "Crafting Interpreters/Chapter 6 - Parsing Expressions-md",
+    "Crafting Interpreters/Chapter 5 - Representing Code-md",
+    "Crafting Interpreters/Chapter 4 - Scanner-md",
+    "Crafting Interpreters/Chapter 10 - Functions-md"
   ]
 }

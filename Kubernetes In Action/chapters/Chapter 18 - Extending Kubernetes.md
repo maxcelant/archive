@@ -1,6 +1,3 @@
-### Summary
-
-
 ### CustomResourceDefinitions
 - You create this definition describing your custom resource.
 - Then you can start creating that resource.
