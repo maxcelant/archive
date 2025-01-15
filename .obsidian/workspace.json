@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes In Action/chapters/Chapter 14 - Managing pods computational resources.md",
+                "file": "Istio in Action/Chapter 8 - Visualizing Network Behavior.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 14 - Managing pods computational resources"
+              "title": "Chapter 8 - Visualizing Network Behavior"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes In Action/chapters/Chapter 14 - Managing pods computational resources.md",
+                "file": "Istio in Action/Chapter 8 - Visualizing Network Behavior.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chapter 14 - Managing pods computational resources"
+              "title": "Backlinks for Chapter 8 - Visualizing Network Behavior"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes In Action/chapters/Chapter 14 - Managing pods computational resources.md",
+                "file": "Istio in Action/Chapter 8 - Visualizing Network Behavior.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chapter 14 - Managing pods computational resources"
+              "title": "Outgoing links from Chapter 8 - Visualizing Network Behavior"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes In Action/chapters/Chapter 14 - Managing pods computational resources.md"
+                "file": "Istio in Action/Chapter 8 - Visualizing Network Behavior.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 14 - Managing pods computational resources"
+              "title": "Outline of Chapter 8 - Visualizing Network Behavior"
             }
           }
         ]
@@ -162,14 +162,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bdd70754d778f4ee",
+  "active": "4f842094fd7b378b",
   "lastOpenFiles": [
+    "Learning Go, An Idiomatic Approach/Chapter  7 - Types, Methods and Interfaces.md",
+    "Kubernetes In Action/chapters/Chapter 14 - Managing pods computational resources.md",
     "Kubernetes In Action/chapters/Chapter 15 - Automatic scaling of pods and cluster nodes.md",
     "Kubernetes In Action/chapters/Chapter 18 - Extending Kubernetes.md",
     "Kubernetes In Action/chapters/Chapter 17 - Best practices for developing apps.md",
     "Kubernetes In Action/chapters/Chapter 5 - Services：enabling clients to discover and talk to pods.md",
     "Kubernetes In Action/chapters/Chapter 0 - StatefulSets：deploying replicated stateful applications.md",
-    "Kubernetes In Action/chapters/Chapter 14 - Managing pods computational resources.md",
     "Kubernetes In Action/chapters/Chapter 1 - Understanding Kubernetes internals.md",
     "Kubernetes In Action/chapters/Chapter 9 - Deployments：updating applications declaratively.md",
     "Kubernetes In Action/chapters/Chapter 8 - Accessing pod metadata.md",
@@ -189,7 +190,6 @@
     "Crafting Interpreters/Chapter 7. Evaluating Expressions.md",
     "Crafting Interpreters/Chapter 6. Parsing Expressions.md",
     "Crafting Interpreters/Chapter 5. Representing Code.md",
-    "Crafting Interpreters/Chapter 10. Functions.md",
     "Crafting Interpreters/Chapter 9 - Control Flow-md",
     "Crafting Interpreters/Chapter 8 - Statements and State-md",
     "Crafting Interpreters/Chapter 7 - Evaluating Expressions-md",
