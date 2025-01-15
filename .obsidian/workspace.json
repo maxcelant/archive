@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "070166afb5b0756f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cba068006a53a858",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f842094fd7b378b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Systems/Chapter 2 - Representing and Manipulating Information.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 2 - Representing and Manipulating Information"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f9c35cc3564c96a",
+    "type": "split",
+    "children": [
+      {
+        "id": "721c0cfc09bef69f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdd70754d778f4ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6684bb5358f85791",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5df228fb9f02010d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d25c7b6274e165c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9adc8fc4b756e26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e528e00af46cc4ea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer Systems/Chapter 2 - Representing and Manipulating Information.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Chapter 2 - Representing and Manipulating Information"
+            }
+          },
+          {
+            "id": "6b54535e109a30f5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer Systems/Chapter 2 - Representing and Manipulating Information.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Chapter 2 - Representing and Manipulating Information"
+            }
+          },
+          {
+            "id": "095c478831a91bc1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "770de5714d010959",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer Systems/Chapter 2 - Representing and Manipulating Information.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Chapter 2 - Representing and Manipulating Information"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4f842094fd7b378b",
+  "lastOpenFiles": [
+    "Computer Systems/ToC.md",
+    "Computer Systems/Chapter 2 - Representing and Manipulating Information.md",
+    "Computer Systems/Information Storage.md",
+    "Computer Systems/Chapter 1 - Tour of Computer Systems.md",
+    "Computer Systems/Course Schedule.md",
+    "Computer Systems/Communication via Networks.md",
+    "Computer Systems/Important Themes.md",
+    "Computer Systems/Operating Systems.md",
+    "Computer Systems/Caches.md",
+    "Computer Systems/System Organization.md",
+    "Computer Systems/Program Translation.md",
+    "Computer Systems/Integer Representations.md"
+  ]
+}

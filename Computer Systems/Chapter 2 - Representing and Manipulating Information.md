@@ -30,12 +30,12 @@ In little endian, the least significant part of a number is stored in the smalle
 >**0x78** (the fourth, least significant byte)
 >In a little endian system, these bytes would be stored in memory starting from the smallest address to the largest address, but in reverse order. So it would look like this in memory:
 
->|Memory Address|Data (in Hex)|
-|---|---|
-|0|78|
-|1|56|
-|2|34|
-|3|12|
+| Memory Address | Data (in Hex) |
+| -------------- | ------------- |
+| 0              | 78            |
+| 1              | 56            |
+| 2              | 34            |
+| 3              | 12            |
 
 **Representing Strings**
 A string in C is encoded by an array of characters terminated by the null (having value 0) character. Each character is represented by some standard encoding, with the most common being the ASCII character code.
