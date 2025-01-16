@@ -32,6 +32,12 @@ istioctl proxy-config
 
 - If we don't see a cluster (subset) that we were expecting, then that's a sign of misconfiguration.
 - The `ENDPOINT` field returned from the `istioctl pc endpoints` is the actual IP of the pod that was discovered by envoy.
+- Istio can be configured to log in JSON.
+- When looking at the logs there are some important aspects:
+  - The `response_flags` value is UT, which stands for “upstream request timeout.”
+  - The `upstream_host` value represents the actual IP address of the workload that handled the request.
+
+
 ### Troubleshooting Walkthrough
 This is to find where traffic might be getting stuck and not reaching a particular service.
 
@@ -73,3 +79,6 @@ By following `routes.route.cluster`, we can see which cluster this virtual host 
 SERVICE FQDN                                PORT     SUBSET     DIRECTION     TYPE     DESTINATION RULE
 catalog.istioinaction.svc.cluster.local     80       -          outbound      EDS
 ```
+
+---
+
