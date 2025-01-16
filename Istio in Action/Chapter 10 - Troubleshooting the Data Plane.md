@@ -36,7 +36,12 @@ istioctl proxy-config
 - When looking at the logs there are some important aspects:
   - The `response_flags` value is UT, which stands for “upstream request timeout.”
   - The `upstream_host` value represents the actual IP address of the workload that handled the request.
-
+- There are important response flags:
+  - UT—Timeout occured and was slow.
+  - UH—No healthy upstream (the cluster has no workloads).
+  - NR—No route configured.
+  - UC—Upstream connection termination
+  - DC—Downstream connection termination
 
 ### Troubleshooting Walkthrough
 This is to find where traffic might be getting stuck and not reaching a particular service.
