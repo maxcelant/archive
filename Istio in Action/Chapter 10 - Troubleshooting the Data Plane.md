@@ -2,7 +2,7 @@
 - `istioctl dashboard kiali` to open kiali.
 - `istioctl analyze -n <namespace>` analyzes Istio configurations.
 - `istioctl x describe pod <pod>` gives you more specific information for a pod.
-- `istioctl dashboard envoy deploy/<deployment>` opens a dashboard for that specific envoy proxy.
+- `istioctl dashboard envoy deploy/<deployment>` opens a dashboard for that specific deployment sidecar proxy.
 
 ```
 istioctl proxy-config 
@@ -35,7 +35,7 @@ istioctl proxy-config
 ### Troubleshooting Walkthrough
 This is to find where traffic might be getting stuck and not reaching a particular service.
 
-1. Make sure that the traffic is reaching the gateway.
+1. Make sure that the traffic is reaching the gateway using `listeners`.
 
 ```bash
 istioctl pc listeners \
@@ -73,3 +73,4 @@ By following `routes.route.cluster`, we can see which cluster this virtual host 
 SERVICE FQDN                                PORT     SUBSET     DIRECTION     TYPE     DESTINATION RULE
 catalog.istioinaction.svc.cluster.local     80       -          outbound      EDS
 ```
+
