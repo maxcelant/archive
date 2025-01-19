@@ -1,7 +1,7 @@
 - `PeerAuthentication` policies apply to the whole cluster. They must be named "default" if we want them to be mesh-wide.
 - `spec.mtls.mode` set to `PERMISSIVE` allows both plaintext and encrypted traffic.
 - `istiod` transforms the `PeerAuthentication` resource into a configuration that Envoy understands and applies it using its **listener discovery service (LDS)**. 
-- We can use a `sleep` deployment to make requests from a different namespace to our indicated workload. This similar to what we did in [[Chapter 2 - General]]. 
+- We can use a `sleep` deployment to make requests from a different namespace to our indicated workload. This similar to what we did in [[Chapter 2 - First steps with Istio]]. 
 
 ```bash
 k -n default exec deploy/sleep -c sleep -- \

@@ -29,4 +29,3 @@ $ du -sh /tmp/config_dump
 ```
 
 - You can add "discovery selectors" to your `IstioOperator` which tells istio which workloads it should reconcile and which it shouldn't.
-- 
