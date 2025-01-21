@@ -9,6 +9,3 @@ spiffe://cluster.local/ns/istioinaction/sa/default
 ```
 
 - The Pilot agent uses the Secrets Discovery Service (SDS) to forward the cert and key to the Envoy proxy.
-
->![[Pasted image 20250101152628.png]]
-
