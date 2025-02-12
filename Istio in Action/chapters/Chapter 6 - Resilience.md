@@ -72,7 +72,8 @@ kind: DestinationRule
 metadata:
   name: simple-backend-dr
 spec:
-host: simple-backend.istioinaction.svc.cluster.local trafficPolicy:
+host: simple-backend.istioinaction.svc.cluster.local 
+  trafficPolicy:
     outlierDetection:
       consecutive5xxErrors: 1
       interval: 5s

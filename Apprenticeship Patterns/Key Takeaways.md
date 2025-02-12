@@ -1,0 +1,6 @@
+- Write down five things that you don't know.
+- Use tests to learn a new language.
+- Choose a primary language and stretch beyond your normal scope with it.
+- Become idiomatic to the language you are using.
+- Wear the white belt; don't be afraid of your ignorance.
+- Expertise is a byproduct of the long road we are all on, it is not the destination.
