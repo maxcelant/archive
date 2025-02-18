@@ -2,5 +2,28 @@
 - Use tests to learn a new language.
 - Choose a primary language and stretch beyond your normal scope with it.
 - Become idiomatic to the language you are using.
-- Wear the white belt; don't be afraid of your ignorance.
+- **Wear the white belt**; don't be afraid of your ignorance.
 - Expertise is a byproduct of the long road we are all on, it is not the destination.
+- Keep learning, focus on areas of ignorance.
+- Pick one skill, tool, or technique and actively fill in gaps in your knowledge about it.
+- Growth only happens by taking the scary jobs and doing things that stretch you.
+- Use **feedback loops** to continue on a project.
+- Reimplement something you know really well.
+- Craftsman's job is to create something that serves others, not for artistic expression, but they can be beautiful.
+- **Study the classics**; Use it to fuel you in times of boredom.
+- Titles do not indicate that your apprenticeship is over.
+- Be the weakest member of the team.
+- The risk of being rejected by a mentor is low.
+- Try to join a community of like-minded individuals.
+- Do menial tasks on important projects; Things you are competent in and can do well.
+- Stop being distracted by stupid stuff.
+- Become intimately **familiar with your weaknesses**.
+- There's a fine balance to be struck between solely learning and developing.
+- Build toy systems that mock the real systems you work with.
+- Read other peoples code; Get really good at it.
+- Pick an intense open source project. Scour the files, learn it's structure and write about what you've learned.
+- Get in the habit of **revisiting old notes**.
+- The less skilled you are, the worse you are self-assessing how skilled you are.
+- Don't let a team influence or skew your sense of competency.
+- Expertise is the death of a craftsman.
+- To really understand something, you need to "reconstruct the context in which it was first expressed".
